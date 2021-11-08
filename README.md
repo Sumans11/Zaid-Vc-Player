@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
-<h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
+<h3> 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓📝</h3>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
