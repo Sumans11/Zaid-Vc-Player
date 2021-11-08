@@ -18,9 +18,9 @@
 
 [@genStr_Bot](https://t.me/genStr_Bot)
 
-[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BoooCreative/StringSession-1#main.py)
+[![𝐂𝐎𝐌𝐌𝐀𝐍𝐃](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BoooCreative/StringSession-1#main.py)
 
-## ᴄᴏᴍᴍᴀɴᴅꜱ 
+## 𝐀𝐃𝐌𝐈𝐍 𝐎𝐍𝐋𝐘
 
 - /ᴘʟᴀʏ <ꜱᴏɴɢ ɴᴀᴍᴇ> - ᴘʟᴀʏ ꜱᴏɴɢ ʏᴏᴜ ʀᴇQᴜᴇꜱᴛᴇᴅ
 - /ᴘʟᴀʏʟɪꜱᴛ - ꜱʜᴏᴡ ɴᴏᴡ ᴘʟᴀʏɪɴɢ ʟɪꜱᴛ
@@ -47,7 +47,7 @@
 - /ᴅᴇᴀᴜᴛʜ - ᴅᴇᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴘᴇᴏᴘʟᴇ ᴛᴏ ᴀᴄᴄᴇꜱꜱ ᴛʜᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ
 - /ᴄᴏɴᴛʀᴏʟ - ᴏᴘᴇɴ ᴛʜᴇ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ᴄᴏɴᴛʀᴏʟ ᴘᴀɴᴇʟ
 
-### ꜱᴜᴅᴏ ᴜꜱᴇʀ 🧙‍♂️
+### 𝐒𝐔𝐃𝐎 𝐔𝐒𝐄𝐑🧙‍♂️
 - /ꜱᴛᴀᴛꜱ - ꜱᴇᴇ ᴛʜᴇ ʙᴏᴛ ꜱᴛᴀᴛɪꜱᴛɪᴄ
 - /ᴘᴍᴘᴇʀᴍɪᴛ ᴏɴ | ᴏꜰꜰ ᴛᴜʀɴ ᴏɴ/ᴏꜰꜰ ᴛʜᴇ ᴀꜱꜱɪꜱᴛᴀɴᴛ ᴘᴍᴘᴇʀᴍɪᴛ
 - /ᴜꜱᴇʀʙᴏᴛʟᴇᴀᴠᴇᴀʟʟ - ᴏʀᴅᴇʀ ᴛʜᴇ ᴀꜱꜱɪꜱᴛᴀɴᴛ ᴛᴏ ʟᴇᴀᴠᴇ ᴀʟʟ ɢʀᴏᴜᴘꜱ
